@@ -1,6 +1,6 @@
-# VitMix
+# From Explanation to Unsupervised Segmentation: Fusion of Multiple Explanation Maps for Vision Transformers
 
-Code behind the paper: **"ViTmiX: Vision Transformer Explainability Augmented by Mixed Visualization Methods"**.
+Code behind the paper: **"From Explanation to Unsupervised Segmentation: Fusion of Multiple Explanation Maps for Vision Transformers"**.
 
 The paper is only possible thanks to the advancements made in [Transformer-Explainability](https://github.com/hila-chefer/Transformer-Explainability).
 
@@ -12,7 +12,8 @@ The paper is only possible thanks to the advancements made in [Transformer-Expla
 
 **ViTmiX** is a framework that improves Vision Transformer interpretability by fusing multiple explainability methods, producing more class-specific and faithful heatmaps. It combines GradCAM, Saliency, Attention Rollout, and LRP using geometric mean and element-wise multiplication.
 
-![image](https://github.com/user-attachments/assets/707fc71c-1d45-42b1-b7db-fa41db398e1f)
+<img width="2929" height="694" alt="image" src="https://github.com/user-attachments/assets/9beefa5a-1f88-4b23-9f46-499310bdc2b7" />
+
 
 
 ## Features
@@ -79,17 +80,4 @@ ViTmiX is evaluated on both ImageNet (student-annotated) and Pascal VOC datasets
 
 ![image](https://github.com/user-attachments/assets/f74995a7-a7d2-4caf-8554-ec050b4cad51)
 
-
-## Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@inproceedings{,
-  title     = {ViTmiX: Vision Transformer Explainability Augmented by Mixed Visualization Methods},
-  author    = {},
-  booktitle = {XXXXXXX.XXXXXXX},
-  year      = {2025},
-  doi       = {XXXXXXX.XXXXXXX}
-}
 

@@ -12,7 +12,7 @@ The paper is only possible thanks to the advancements made in [Transformer-Expla
 
 **ViTmiX** is a framework that improves Vision Transformer interpretability by fusing multiple explainability methods, producing more class-specific and faithful heatmaps. It combines GradCAM, Saliency, Attention Rollout, and LRP using geometric mean and element-wise multiplication.
 
-<img width="2929" height="694" alt="image" src="https://github.com/user-attachments/assets/9beefa5a-1f88-4b23-9f46-499310bdc2b7" />
+<img width="1612" height="397" alt="image" src="https://github.com/user-attachments/assets/6a292613-c84d-46ad-ab3c-12a58a31e4c0" />
 
 
 
